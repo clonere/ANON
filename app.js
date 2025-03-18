@@ -4,8 +4,8 @@ const bodyParser = require('body-parser');
 const TelegramBot = require('node-telegram-bot-api');
 
 // Hardcode token dan URL webhook (ganti dengan nilai milikmu)
-const TOKEN = '7783307198:AAFNOoLG-I-xMsPZMnDSqWXHXFshigXuKxU';
-const WEBHOOK_URL = 'https://botanontele-production.up.railway.app';
+const TOKEN = '6113915423:AAFqJl8LpQKw-idq3Ev7JQRWNZ1pV8960Io';
+const WEBHOOK_URL = 'https://67da054534c2df5ce43fb4aa--rococo-flan-d74a69.netlify.app';
 
 
 // Inisialisasi bot dengan mode webhook
